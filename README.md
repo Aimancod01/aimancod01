@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aiman Naeem</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Mern, Data Science**
+- 💬 Ask me about **React, Node, Express, MongoDB**
 
 - 📫 How to reach me **aimannaeem80@gmail.com**
 
