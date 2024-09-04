@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiman Naeem</h1>
-<h3 align="center">A passionate Mern Stack Developer</h3>
+<h3 align="center">Mern Stack Developer</h3>
 
 - 💬 Ask me about **React, Node, Express, MongoDB**
 
