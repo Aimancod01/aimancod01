@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aiman Naeem</h1>
-<h3 align="center">Mern Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
-- 💬 Ask me about **React, Node, Express, MongoDB**
+- 💬 Ask me about **React**, **React Native**, **Node.js**, **Express.js**, **MongoDB**
+- 📫 Reach me at: [aimannaeem80@gmail.com](mailto:aimannaeem80@gmail.com)
 
-- 📫 How to reach me **aimannaeem80@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
