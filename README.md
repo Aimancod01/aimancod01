@@ -27,13 +27,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aimancod01&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimancod01&layout=compact&theme=radical" />
 </p>
 
-## 📫 Get in Touch
-<p align="center">
-  <a href="mailto:aimannaeem80@gmail.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/aimannaeem1/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://portfolio-kappa-one-20.vercel.app/" target="_blank">🌐 Portfolio</a>
-</p>
