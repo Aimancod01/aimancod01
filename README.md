@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aiman Naeem</h1>
-<h3 align="center">Full-Stack Developer (React, Next.js, React Native & Node.js)</h3>
+<h3 align="center">Frontend Engineer (React, Next.js, React Native) | Node.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aimannaeem1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
