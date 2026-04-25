@@ -14,17 +14,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🚀 **Software Engineer** with **2+ years** of experience building scalable web and mobile apps
-- ⚛️ Specializing in the **React Ecosystem** — Next.js, React Native, and beyond
-- 🤖 Passionate about **AI-integrated products** and how LLMs are reshaping modern UX
-- 🏗️ Full product lifecycle thinker — from **UI architecture** to **CI/CD & DevOps**
-- 🌐 Currently exploring the intersection of **edge computing** and **AI-driven interfaces**
+- **Software Engineer** with **2+ years** of experience building scalable web and mobile apps
+- Specializing in the **React Ecosystem** — Next.js, React Native, and beyond
+- Passionate about **AI-integrated products** and how LLMs are reshaping modern UX
+- Full product lifecycle thinker — from **UI architecture** to **CI/CD & DevOps**
+- Currently exploring the intersection of **edge computing** and **AI-driven interfaces**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,42 +47,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimannaeem1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimannaeem1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aimannaeem1&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 💡 What I'm Working On
 
-- 🧠 Building **AI-powered developer tools** using LLM APIs
-- 📱 Shipping cross-platform apps with **React Native**
-- ⚙️ Improving **CI/CD pipelines** with GitHub Actions & Docker
-- 📚 Deep-diving into **system design** and **distributed architectures**
+- Building **AI-powered developer tools** using LLM APIs
+- Shipping cross-platform apps with **React Native**
+- Improving **CI/CD pipelines** with GitHub Actions & Docker
+- Deep-diving into **system design** and **distributed architectures**
 
----
-
-<div align="center">
-
-*"Ship fast. Learn faster. Build things that matter."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=aimannaeem1&color=0077B5&style=flat-square&label=Profile+Views)
-
-</div>
